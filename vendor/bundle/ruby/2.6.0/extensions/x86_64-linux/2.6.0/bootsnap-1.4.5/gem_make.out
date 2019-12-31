@@ -1,0 +1,15 @@
+current directory: /home/pavel/Documents/RubyProjects/RailsProjects/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+/usr/bin/ruby -I /usr/lib/ruby/2.6.0 -r ./siteconf20191231-12442-1gafcxm.rb extconf.rb
+creating Makefile
+
+current directory: /home/pavel/Documents/RubyProjects/RailsProjects/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/pavel/Documents/RubyProjects/RailsProjects/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/pavel/Documents/RubyProjects/RailsProjects/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20191231-12442-16s21qn/bootsnap
